@@ -1,0 +1,2 @@
+in package.json, there could be anything to start
+nodemon: to restart the server after every change
